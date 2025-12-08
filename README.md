@@ -7,6 +7,7 @@ Follow these steps to run the project locally:
 
 ### 1. Clone the repository
 git clone https://github.com/Resilient-Labs/bet-on-me.git
+
 cd <your-project-folder>
 
 ### 2. Install server dependencies
@@ -33,7 +34,7 @@ http://localhost:3000
 | Category  | Tools                               |
 | --------- | ----------------------------------- |
 | Backend   | Node.js, Express, Mongoose, MongoDB |
-| Frontend  | EJS, HTML, CSS, JavaScript          |
+| Frontend  | EJS, HTML, Bootstrap, JavaScript          |
 | Dev Tools | dotenv                     |
-
+| .giignore, .env, node_modules,DS_Store, package-lock.json |
 
