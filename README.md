@@ -29,3 +29,11 @@ Navigate to:
 
 http://localhost:3000   
 
+## Tech Stack: 
+| Category  | Tools                               |
+| --------- | ----------------------------------- |
+| Backend   | Node.js, Express, Mongoose, MongoDB |
+| Frontend  | EJS, HTML, CSS, JavaScript          |
+| Dev Tools | dotenv                     |
+
+
